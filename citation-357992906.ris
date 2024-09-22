@@ -1,0 +1,10 @@
+TY  - JOUR
+AU  - Bansal, Geet
+AU  - Joshi, Manju
+PY  - 2021/09/21
+SP  - 71
+EP  - 79
+N2  - Deepfake it is like a simulation, which is using computer technology to turn real images and video into fake images and videos that is already quite a new drift. The easy way to do it is to use a computer vision, which is a machine that can simulate a lot of things by processing various kinds of data that is what computer vision is all about. Deep learning is an artificial intelligence system that can be used to build and detect Deepfakes. Deepfakes are generated using adversarial generative networks, where two models of machine learning exist. One model trains a dataset then generates deep-fakes, and the other model is to detect Deepfakes. The former creates deep fakes while the other model is trained to deep fakes. This paper aims to study and analyze the methods to detect Deepfake content and the issues related to the same. Deepfake detections are techniques for identifying actual or insightful photographs and videos on social media. Deep detection technology includes the training of detection models for recognizing original and false images or video bases. In this research, deep-featured technology and its problems were first addressed, then accessible video databases were identified, and to find out the ways by which we can able to identify the forged videos or images using the technology. Still more versatile, precise, efficient, and cross-platform deep-fake detection techniques are required for future research and development.
+T1  - DEEPFAKE: A SYSTEMATIC REVIEW
+VL  - 36
+ER  - 
