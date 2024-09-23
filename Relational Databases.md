@@ -3,8 +3,7 @@
 Relational databases are a powerful way to organize and manage data using tables, rows, and columns. As you read the following articles, consider:
 
 - How did early database systems influence the development of relational databases?
-- What criteria can be used to evaluate the design and effectiveness of a relational database?
-
+- What criteria can be used to evaluate the design and effectiveness of a relational database
 ## Recommended Reading
 
 - **[Relational Data Model 101: Key Components & Benefits](https://example.com/article1)** by Anina Ot (8 min)
