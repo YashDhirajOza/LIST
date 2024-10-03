@@ -14,7 +14,7 @@
   They Help in designing algorithm and systems by focusing on what a data structure should do rather than how it does it , improving  both clarity and maintainbility in software development 
 
 
-  #  Binary Tree#
+  #  Binary Tree #
   A Full binray tree is a type of binary tree in whih every node has either 0 or 2 children . This means that no node in a full binary tree has only one child ; each internal node must have exactly two children, 
   and all leaves are at the same or different levels
  ## Characteristics of a Full Binary Tree:##
@@ -26,11 +26,7 @@
   3. The total number of nodes , n , in a full binary tree of height h is given by a formula
 
   4. A full binary tree is not necerssarlit a balanced tree , where all leaves are at the same level however, it can still be efficient for certain ttypes of recurive operations due to its regulate strucute
-        1
-       / \
-      2   3
-     / \ / \
-    4  5 6  7
+      
 
   Efficient tree traversal:- The well defined structure of full binary trees make them useful for algorithms that reply on effienct tree traversal 
   Use in Heaps and Binary Search Tree: Many tree based on data structure such as heaps and some types o bonary search three as build as fill binary tree to maintain balance and ecnsure optimal performance for insertion, deletion and search operations 
@@ -39,9 +35,23 @@
 
   Applications in Network Design and parallel Computing: Full Binary Tree are frequently used to model hiearchical relationships in network design and parallel commputing , where each node can represent a task pt a process with dependescies on two sub tasks 
 
-##(15 Marks) Explain the process of insertion and deletion in a Doubly Linked List. Provide C code examples to demonstrate how nodes are inserted and deleted.##
+## (15 Marks) Explain the process of insertion and deletion in a Doubly Linked List. Provide C code examples to demonstrate how nodes are inserted and deleted
 
+A Doubly Linked List is a linear data structure consisting of a sequence of elements called nodes, where each node contains 
 
+Data: The values or data stored in node 
+
+A pointer to the next node(next):  the upcoming node which will come  after the current node 
+
+prev:- the previous node which will came before the current node 
+
+Unlike a Singly Linked List where each node only has a refernce to the nest node A doubly linked list has two references one to the next node and one to the previous node . This allows for befirectinal traaveral you can traverse the list from the beginning the the end and also from the ned to the beginning 
+
+# Characteristics of a Doubly Linked List:
+
+ 1. Bidirectinal tranversal
+ 2. Efficient insertion and deletion
+ 3. 
 
   
   
