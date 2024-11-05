@@ -1,0 +1,46 @@
+Explain DDL ,DML, DCL with EX ? 
+ANSWER:- 
+         DDL 
+1_ Here DDL mean Data Definiation Language
+DDL helps in create, modify and remove database objects such as tables, indexs and storgroups 
+
+HELPS IN 
+CREATE,
+MODIFY,
+REMOVE, 
+
+ex : UNIQUE,    PRIMARY, CHECK ; 
+
+ALSO KNOW AS Data Description Language
+
+Subset of SQL 
+
+syntax:- CREATE TABLE stud_rollno ( name VARCHAR(50), class VARCHAR(20) );
+
+_________________________________________________________________________________________
+                                    # DML#
+  Data Manipulation Language
+  DML Helps in performing complex quries 
+  
+  INSERT, 
+  UPDATE, 
+  DELETE 
+  SELECT 
+  
+
+  Subset of SQL
+
+  syntax:- SELECT * FROM class; 
+
+_________________________________________________________________________________________
+                                    # DCL #
+    Data Control Language 
+
+    DCL Helps in Control privilages of the tables like create tables , views 
+
+    EXECUTE
+    ALL
+    ALTER
+
+    Subset of SQL 
+    
